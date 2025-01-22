@@ -1,0 +1,22 @@
+.box{
+    
+    height: 200px;
+}
+.box4{
+    height: 50;
+}
+.box1{
+    background-color: lightskyblue
+}
+.box2{
+    background-color: turquoise
+}
+.box3{
+    background-color: cyan
+}
+.box4{
+    background-color: cornflowerblue
+}
+.box5{
+    background-color: rgb(105, 217, 236)
+}
